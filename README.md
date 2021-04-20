@@ -7,7 +7,7 @@ Link to the dataset: https://www.consumerfinance.gov/data-research/consumer-comp
 ### To View This Notebook
 Just click on the `main.ipynb` file above.
 
-## Usage - Running Jupyter notebook
+### Usage - Running Jupyter notebook
 
 ### Running in a local installation
 
