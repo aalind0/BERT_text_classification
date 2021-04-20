@@ -1,4 +1,4 @@
-## Multi Label, Multi Class Classification using BERT along with Attention
+## Multi Label, Multi Class Classification using BERT with Attention
 
 ##### Dataset used - Consumer Complain Database 
 This database is a collection of complaints about consumer financial products and services that we sent to companies for response.<br>
